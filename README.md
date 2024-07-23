@@ -57,5 +57,5 @@ GET запрос:
  
  Ссылки на манифест:
  
- 
+ https://github.com/dmistus/Kubernetes_02/tree/main/src
 
